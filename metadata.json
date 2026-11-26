@@ -1,0 +1,6 @@
+{
+  "name": "SI Energía y Suministros — AP Contrata",
+  "description": "Sistema espejo de gestión de solicitudes, despachos, devoluciones, inventario y consolidados de Aporte Contrata con PostgreSQL y autenticación Google Workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
